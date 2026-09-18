@@ -117,7 +117,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["support-now.cogswell.net"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["support.cogswell.net"];
 pub const RS_PUB_KEY: &str = "RT6pspgIeIhmHjfwE5PWFsIYUiBtryaQDacHULX1Ke8=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
